@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "doctrine/orm": "^2.5"
+    },
+	"autoload": {
+        "psr-4": {"Professore\\": "src/Professore"}
+    }
+}
